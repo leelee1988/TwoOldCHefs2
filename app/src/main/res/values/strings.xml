@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Two Old CHefs</string>
+    <string name="about_us">About us!</string>
+    <string name="todo">TODO</string>
+    <string name="videos">Videos</string>
+    <string name="recipes">Recipes</string>
+    <string name="video_guide">Video Guide</string>
+    <string name="who_are_the_two_old_chefs">Who are the two old chefs?</string>
+    <string name="about_the_two_old_chefs">about the two old chefs</string>
+    <string name="About_the_two_old_chefs">What You Need to Know About the Two Old Chefs!</string>
+
+    <string name="ian_watkins">Old Chef Number 1#: Ian Watkins</string>
+    <string name="text_with_paragraphs">Ian has worked in the restaurant industry since he was 17 years old with 22 years experience he began in fast food and over the years he has worked in quick service pizza, New York style Chinese, upscale Italian, a fine dining steakhouse, and a food distribution warehouse. He’s worked numerous positions including prep cook, line cook, butcher, inventory in logistics, management, upper management, and owner. Over his 22 year career he’s especially proud of the different establishments that were poorly performing that he re-staff to re-train and fix the culture within the establishments that allowed them to flourish during his tenure.</string>
+    <string name="rey">Old Chef Number 2#: Raynaldo Collet</string>
+    <string name="reysbio">Reynaldo begins his journey at a young age. He spent quite some time working for Chilis and Red Lobster as a cook before moving on to work a trailer company for five years. Throughout those five years he never lost his passion for cooking nor did he forget. After five years passed he returned to cooking and worked at Steakhouse called Aussie’s to where he gained new experience and was opened to newer opportunity. This opportunity is where he learned how to butcher and met his mentor Chef Andy. While under chef Andy’s wing he gained better experience and more knowledge. Eventually Reynaldo moved on and carried all his experience and training with him to Wall St. Reynaldo is loved by many for create dishes and continues gaining new knowledge and experience.</string>
+    <string name="cajun_seafood">Cajun seafood pasta salad space</string>
+    <string name="southwest_sweet_potato_salad">Southwest sweet potato salad</string>
+    <string name="red_curry_shrimp_and_corn_chowder">Red curry shrimp and corn chowder</string>
+    <string name="recipe_1">Recipe 1</string>
+    <string name="spin_dip">Spin dip</string>
+    <string name="curry_crab_and_shrimp">Curry Crab and Shrimp</string>
+    <string name="shrimp_tostadas">Shrimp Tostadas</string>
+    <string name="ian_sushi_poke_bowl">Ian Sushi/Poke bowl</string>
+
+
+</resources>
