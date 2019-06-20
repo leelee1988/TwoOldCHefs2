@@ -26,8 +26,8 @@ This is what i created my first app on, hope you enjoy.
 
 # Worklog:(start Time, day, end time)
 
-6/4/2019 start time: 9:07 pm 
-         end time: 11:10m
+6/4/2019 start time: 9:07 pm\n
+         end time: 11:10m\n
  Watching Tutorials from john from  cave of programming.(
 Learned:
    I learned what IDE's, plugins, and SDK's that needed to be downloaded if i chose to use esclipse heres what i would need, and just good konowloedge. the ADT plugin and andriod SDK can be found on the andriod developer website. John also showed steo by step to which i took notes on onenote on how to apply the ADT plugin and SDK on eclispe. I also learned what an emulator is and how to create on exclipe. John then showed how to run a hello word program through the emulator to which i have step by step notes on my OneNote. I leanred how to make an edit text editor, buttoms , and linear layout on the emultor. i also learned about andriod xml layout files which consist of view groups and views. These view groups have layout syntax that layout various widgets and the views are the actual widgets. This concludes what i learned.
